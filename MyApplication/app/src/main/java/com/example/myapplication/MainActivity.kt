@@ -1,5 +1,10 @@
 package com.example.myapplication
 
+/**
+* @author Marco Antonio Concha Zamora II -
+* <a href="mailto:marcoantonioconcha@ciencias.unam.mx">marcoantonioconcha@ciencias.unam.mx</a>
+*/
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
